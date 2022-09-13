@@ -19,6 +19,7 @@ int main()
     printf("%d\n",2[Arr]);
 
     return 0;
+
 }
 
 
